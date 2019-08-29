@@ -1,7 +1,19 @@
 {
     "name": "kdassnippets",
+    "publisher": "kdashivantha@gmail.com",
     "displayName": "kdassnippets",
     "description": "KDAS my personal snippets collection",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kdashivantha/kdas-vscode-snippet.git"
+    },
+    "keywords": [
+        "Angular",
+        "Javascript",
+        "TypeScript",
+        "HTML"
+    ],
+
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.37.0"
@@ -13,7 +25,11 @@
         "snippets": [
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./notebook/javascript.json"
             }
         ]
     }
