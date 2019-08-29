@@ -1,8 +1,9 @@
 {
     "name": "kdassnippets",
     "publisher": "kdashivantha@gmail.com",
-    "displayName": "kdassnippets",
+    "displayName": "KDAS Snippets",
     "description": "KDAS my personal snippets collection",
+    "icon": "images/kdas.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/kdashivantha/kdas-vscode-snippet.git"
@@ -26,10 +27,6 @@
             {
                 "language": "javascript",
                 "path": "./snippets/javascript.json"
-            },
-            {
-                "language": "javascript",
-                "path": "./notebook/javascript.json"
             }
         ]
     }

@@ -3,7 +3,7 @@
         "prefix":"kd-test",
         "description":"just for fun",
         "body":[
-            "test one &{1}",
+            "test one &{1:test}",
             "test multi line"
         ]
     }
