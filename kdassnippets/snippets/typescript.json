@@ -1,0 +1,9 @@
+{
+    "Test snippt javascript":{
+        "prefix":"kd-ts",
+        "description":"just for fun",
+        "body":[
+            "typescript"
+        ]
+    }
+}

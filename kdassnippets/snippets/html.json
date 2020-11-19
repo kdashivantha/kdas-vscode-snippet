@@ -1,0 +1,9 @@
+{
+    "Test snippt javascript":{
+        "prefix":"kd-html-test",
+        "description":"html test",
+        "body":[
+            "<ng-select></ng-select>"
+        ]
+    }
+}
